@@ -30,9 +30,3 @@ Abstract art presents a uniquely difficult task for AI systems due to its lack o
 - This project is notebook-based and designed for exploratory research  
 - Some models may require keys or local access to reproduce results
 - Findings are written up in the `Final_Paper_LLMs_Abstract_Art_Analysis.pdf`
-
----
-
-## Takeaway
-
-This work demonstrates that while modern LLMs and VLMs can generate plausible interpretations of abstract art, their ability to consistently align with human reasoning is limited. The results motivate further research into fine-tuning and alignment techniques for subjective, non-deterministic domains.
